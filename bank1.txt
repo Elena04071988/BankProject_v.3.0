@@ -1,0 +1,5 @@
+Банк, BIC, Credit, LoanName, Amount, rate, loanTerm, earlyClosePossibility, increaseCreditLimit, salarySertificate,
+RRB Bank, 123456, HOUSINGCREDIT, 10000, 0.15, 36, false, true, true, false, true
+AlfaBANK, 123456, CONSUMERCREDIT, 10000, 0.15, 60, false, true, true, false, 0.12
+PriorBank, 123456, HOUSINGCREDIT, 1000000, 0.05, 360, false, true, true, true, true
+TechnoBank, 123456, CREDITTOCARD, 1000, 0.20, 18, false, true, true, false, 0.5
